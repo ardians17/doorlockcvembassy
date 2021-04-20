@@ -1,5 +1,6 @@
 {
-  "post": [{
+  "post": [
+    {
         "status": 200,
         "error": false,
         "message": "Response success",
@@ -10,8 +11,5 @@
             "description": "The door is open"
         }
     }
-    ],
-  "profile": {
-    "name": "typicode"
-  }
+    ]
 }     
