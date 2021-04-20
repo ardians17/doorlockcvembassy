@@ -1,5 +1,4 @@
-{
-  "post": [
+
     {
         "status": 200,
         "error": false,
@@ -11,5 +10,4 @@
             "description": "The door is open"
         }
     }
-    ]
-}     
+  
