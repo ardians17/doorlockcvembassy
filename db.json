@@ -1,0 +1,17 @@
+{
+  "post": [{
+        "status": 200,
+        "error": false,
+        "message": "Response success",
+        "data": {
+            "is_open": 1,
+            "is_member": 0,
+            "closing_time": "2021-04-20 19:10:00:,
+            "description": "The door is open"
+        }
+    }
+    ],
+  "profile": {
+    "name": "typicode"
+  }
+}     
